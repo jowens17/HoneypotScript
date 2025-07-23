@@ -67,7 +67,7 @@ ngrok will give you a link like:
 
 **DISCLAIMER** ⚠️
 
-This is for educational purposes only. Don't use it to break laws or attack real people. Exposing honeypots to the public internet can be risky, so be careful and monitor what happens. Use for ethical use only.
+This is for educational purposes only. Don't use it to break laws or attack real people. Hosting honeypots to the public internet can be risky, so be careful and monitor what happens. Please use a virual machine or sandbox to be safe and most importantly- Use for ethical use only!
 
 
 
